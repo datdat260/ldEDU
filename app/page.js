@@ -19,7 +19,7 @@ export default function Home() {
             </h1>
             <p className="text-2xl md:text-3xl">Cơ sở II - TP.HCM</p>
             <p className="text-xl md:text-2xl italic mt-4">
-              "Đào tạo - Nghiên cứu - Phát triển nguồn nhân lực chất lượng cao"
+              &ldquo;Đào tạo - Nghiên cứu - Phát triển nguồn nhân lực chất lượng cao&rdquo;
             </p>
           </div>
         </div>
